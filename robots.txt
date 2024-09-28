@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ocktapyro.github.io/sitemap.html.gz
+Sitemap: https://ocktapyro.github.io/app/sitemap.html.gz
+Sitemap: https://ocktapyro.github.io/assets/sitemap.html.gz
+Sitemap: https://ocktapyro.github.io/css/sitemap.html.gz
+Sitemap: https://ocktapyro.github.io/data/sitemap.html.gz
+Sitemap: https://ocktapyro.github.io/includes/sitemap.html.gz
+Sitemap: https://ocktapyro.github.io/item/sitemap.html.gz
+Sitemap: https://ocktapyro.github.io/src/sitemap.html.gz
